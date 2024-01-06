@@ -21,7 +21,7 @@ const ReadTodo = ({ todos, fetchTodos }) => {
                 <td>{todo.title}</td>
                 <td>{todo.completed ? "Completed" : "Pending"}</td>
                 <td>
-                  <div className="btn-group" role="group">
+                  <div className="btn-group justify-content-end" role="group">
                     <UpdateTodo
                       todoId={todo.id}
                       title={todo.title}

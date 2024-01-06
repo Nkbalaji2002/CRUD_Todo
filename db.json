@@ -1,3 +1,19 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "title": "HTML",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "JavaScript",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "ReactJS",
+      "completed": false,
+      "id": 4
+    }
+  ]
 }
