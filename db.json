@@ -1,17 +1,17 @@
 {
   "todos": [
     {
-      "title": "HTML",
-      "completed": true,
-      "id": 1
+      "title": "JavaScript",
+      "completed": false,
+      "id": 2
     },
     {
-      "title": "JavaScript",
+      "title": "CSS",
       "completed": true,
       "id": 3
     },
     {
-      "title": "ReactJS",
+      "title": "React",
       "completed": false,
       "id": 4
     }
